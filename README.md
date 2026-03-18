@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Paulo. Atualmente estudo Ciência da Computação na faculdade presencial e faço mini projetos estudando em casa. Tenho experiência em escritório com pacote Office com destaque para Excel e Power BI usando SQL. Sou apaixonado em aprender e conhecer mais sobre o mundo da tecnologia, e aqui em meu perfil compartilho o que eu estudo e meus projetos, com foco em mostrar o que eu sei, e todo dia em busca de evoluir e aprender com os erros. Para saber mais sobre mim, acesse minhas redes sociais abaixo.
+Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Paulo. Atualmente estudo Ciência da Computação na faculdade presencial e faço mini projetos estudando em casa. Tenho experiência em escritório com pacote Office com destaque para Excel e Power BI usando SQL. Sou apaixonado em aprender e conhecer mais sobre o mundo da tecnologia. Aqui no meu perfil compartilho o que eu estudo e meus projetos, e busco todo dia evoluir e aprender com os erros e acertos. Para saber mais sobre mim, acesse minhas redes sociais abaixo.
 
 <p align="center">
   <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/instagram-6-xxl.png"/></a>
@@ -15,7 +15,7 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://www.youtube.com/@noxe9251">
         <img 
             alt="youtube subscribers" 
