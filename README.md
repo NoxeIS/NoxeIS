@@ -1,4 +1,4 @@
-# 👩🏻‍💻 IGOR SILVA
+# 👨‍💻 IGOR SILVA
 
 **`Estudante de Programação`**
 
