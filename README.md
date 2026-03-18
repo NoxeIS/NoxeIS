@@ -5,13 +5,13 @@
 Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Paulo. Atualmente estudo Ciência da Computação na faculdade presencial e faço mini projetos estudando em casa. Tenho experiência em escritório com pacote Office com destaque para Excel e Power BI usando SQL. Sou apaixonado em aprender e conhecer mais sobre o mundo da tecnologia, e aqui em meu perfil compartilho o que eu estudo e meus projetos, com foco em mostrar o que eu sei, e todo dia em busca de evoluir e aprender com os erros. Para saber mais sobre mim, acesse minhas redes sociais abaixo.
 
 <p align="center">
-  <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://img.icons8.com/ios_filled/512/F25081/instagram-new.png"/></a>
+  <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/instagram-6-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@noxe9251"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@noxe9251"><img width="32px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/blue/youtube-6-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/blue/linkedin-6-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/626794419890159629" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/626794419890159629" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/discord-2-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
