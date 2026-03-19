@@ -92,14 +92,6 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
