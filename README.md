@@ -18,21 +18,19 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
 </details>
 
 <p align="center">
-    <a href="" alt="Email" title="Email"><img width="32px" src=""/></a>
+    <a href="https://malito:igorpereirasilva026@gmail.com/"><img width="32px" alt="Email" title="Email" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/instagram-6-xxl.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@noxe9251"><img width="32px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/blue/youtube-6-xxl.png"/></a>
+  <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/626794419890159629" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/discord-2-xxl.png"/></a>
+  <a href="https://www.youtube.com/@noxe9251" alt="Youtube" title="Canal do Youtube"><img width="32px" src="https://www.svgrepo.com/show/475700/youtube-color.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
 
-### 🤖 Linguagens que domino
+### 🤖 Linguagens e Softwares que domino:
 
 <img 
     align="left" 
@@ -90,6 +88,22 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="22px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373589/excel.svg" 
+/>
 
 <br/>
 <br/>
@@ -111,7 +125,6 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxeIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 
