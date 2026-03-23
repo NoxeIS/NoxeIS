@@ -18,8 +18,6 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
 </details>
 
 <p align="center">
-    <a href="https://malito:igorpereirasilva026@gmail.com/"><img width="32px" alt="Email" title="Email" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
