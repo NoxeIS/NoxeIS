@@ -11,13 +11,15 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
     </p>
     <ul>
         <li>🎓 Cursando graduação em Ciência da Computação</li>
-        <li>🎯 Faço sites e projetos para ajudar pessoas e melhorar minhas habilidades</li>
-        <li>📚 Habilidade em Python | html | css | JavaScript</li>
+        <li>🎯 Faço sites e projetos para pessoas e destacar suas empresas</li>
+        <li>📚 Habilidade em Python | html | css | JavaScript | Power BI | MySQL | Excel</li>
         <li>💬 Se tiver alguma duvida, entre em contato pelo email!</li>
     </ul>
 </details>
 
 <p align="center">
+    <a href="" alt="Email" title="Email"><img width="32px" src=""/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/instagram-6-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@noxe9251"><img width="32px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/blue/youtube-6-xxl.png"/></a>
