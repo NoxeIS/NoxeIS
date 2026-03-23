@@ -22,7 +22,7 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@noxe9251"><img width="32px" alt="Youtube" title="Youtube" src="https://www.iconsdb.com/icons/preview/blue/youtube-6-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/blue/linkedin-6-xxl.png"/></a>
+  <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/626794419890159629" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://www.iconsdb.com/icons/preview/blue/discord-2-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
