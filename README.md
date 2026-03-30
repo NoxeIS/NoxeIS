@@ -1,7 +1,16 @@
-# 👨‍💻 IGOR SILVA
+<div align="center">
+
+# 👨🏻‍💻 IGOR SILVA
 
 **`Estudante de Programação`**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-silva-435414238/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:igorpereirasilva026@gmail.com)
+
+</div>
+
+---
+## Resumo
 Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Paulo. Atualmente estudo Ciência da Computação na faculdade presencial e faço mini projetos estudando em casa. Tenho experiência em escritório com pacote Office com destaque para Excel e Power BI usando SQL. Aqui no meu perfil compartilho o que eu estudo e meus projetos, e busco todo dia evoluir e aprender com os erros e acertos.
 
 <details>
@@ -10,15 +19,12 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
             <b>Mais sobre mim</b>
         </samp>
     </summary>
-    <p>
-        Sou estudante de programação na faculdade Estácio. <br />
-        Trabalho com Excel e Power BI atualmente.
-    </p>
     <ul>
         <li>🎓 Cursando graduação em Ciência da Computação</li>
-        <li>🎯 Faço sites e projetos para pessoas e destacar suas empresas</li>
-        <li>📚 Habilidade em Python | html | css | JavaScript | Power BI | MySQL | Excel</li>
+        <li>🎯 Faço sites e aplicativos para pessoas e destacar suas empresas</li>
+        <li>📚 Habilidade em Python | JAVA | html | css | JavaScript | Power BI | MySQL | Excel</li>
         <li>💬 Se tiver alguma duvida, entre em contato pelo email!</li>
+        <li>🧠 Estudando com foco em estagiar na área de TI</li>
     </ul>
 </details>
 
@@ -32,8 +38,6 @@ Me chamo Igor Pedro da Silva, tenho 20 anos e sou natural do interior de São Pa
 <br>
 
 <p>
-  <a href="mailto:igorpereirasilva026@gmail.com" alt="Email" title="Email"><img width="32px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/igorr_silv4/" alt="Instagram" title="Instagram"><img width="32px" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/igor-silva-435414238/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
